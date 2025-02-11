@@ -10,6 +10,7 @@ However, this template is meant for general code to be reused across seasons, so
 please refrain from putting anything year specific into this template
 (e.g. motor names or autonomous commands).
 
+
 # Getting started
 
 To create new repositories using this one, go to GitHub and and create a new repository with
